@@ -1,0 +1,14 @@
+{
+  "name": "deployfirstapp",
+  "version": "1.0.0",
+  "description": "first express app ",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "Manoj",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
